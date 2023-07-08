@@ -19,17 +19,16 @@
 ## Approach:
 
 ### Class Pizza :
-	- Constructor (Veg, Non-Veg)
+	- Constructor (Veg/Non-Veg)
 	- addExtraCheese ()
 	- addExtraToppings()
 	- addTakeAway()
 	- getBill()
 
 ### Class DeluxPizza Inherite Pizza:
-Same as Pizza
-	- addExtraCheese() empty statement;
-	- addExtraToppings() empty statement;
-	- addTakeAway()
+	- Constructor(Veg/Non-Veg) + addExtraCheese() + addExtraTopping;
+	- Override addExtraCheese() empty statement
+	- Override addExtraToppings() empty statement
 
 ## OUTPUT
 #### Pizza		  : Rp50.000,00
