@@ -1,5 +1,5 @@
 # Pizza-Bill-Generator-App
-## Project:
+## Project Use Eclipse IDE
 
 ### BasePizza : 	
     	- Veg = 50K IDR.
